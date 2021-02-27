@@ -1,2 +1,2 @@
 
-[](assets/catan-comp-screenshot.png)
+[app-screenshot](assets/catan-comp-screenshot.png)
